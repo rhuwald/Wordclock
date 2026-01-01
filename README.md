@@ -10,7 +10,7 @@ Night_Mode_Hours = False
 # Night_Mode_Hours = True
 # Night_Mode_Hours = (18,19,20,21,22,23,0,1,2,3,4,5)
 ```
-The clock will be synced 2 times a day: At 02:00 and 03:00 (for daylight saving)...
+The clock will be synced twice a day: At 02:00 and 03:00 (for daylight saving)...
 
 - [Required Hardware](#required-hardware)
 - [Installation](#installation)
