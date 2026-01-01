@@ -3,12 +3,13 @@
 Wordclock powered by Raspberry Pi Pico and Waveshare e-paper 3.7". Wordclock displays the actual time with **GERMAN** words onto a 3.7" Waveshare e-paper display (e.g. "ES IST FÜNF MINUTEN NACH VIER").
 
 There is a light and dark mode, which can be set in wordclock.py:
-´´´ python
+
+```python
 # Night_Mode ist Weisse Schrift auf schwarzem Grund (z.B. für nachts)
 Night_Mode_Hours = False
 # Night_Mode_Hours = True
 # Night_Mode_Hours = (18,19,20,21,22,23,0,1,2,3,4,5)
-´´´
+```
 The clock will be synced 2 times a day: At 02:00 and 03:00 (for daylight saving)...
 
 - [Required Hardware](#required-hardware)
