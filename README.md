@@ -42,10 +42,10 @@ The 3 buttons have the following functions:
 
 ## Installation
 1. Solder the Pico, female headers, male header and the short-stroke push buttons onto the circuit board (short-stroke push buttons on the back!).
-2. Solder the male header onto the amplifier (SO and GAIN shall not be connected)
+2. Solder the male header onto the amplifier (SO and GAIN shall not be connected). The mono amplifier has to be soldered upside down (error in my circuit board layout).
 3. Print the housing with a 3D printer.
 4. Attach the circuit board to the e-paper display using the standoffs and screws.
-5. Install the circuit board.
+5. Install the circuit board in the housing.
 6. Obtain the API key from **Free Time Zone Database & API**.
 7. Copy all files to the Pico (e.g., using [Thonny](https://thonny.org/)).
 8. Start wordclock.py (e.g., using Thonny).
