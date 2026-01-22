@@ -57,3 +57,6 @@ The 3 buttons have the following functions:
 * [Pimoroni Pico Plus 2W](https://shop.pimoroni.com/products/pimoroni-pico-plus-2-w?variant=42182811942995)
 * [Waveshare 3.7" e-paper display](https://www.waveshare.com/pico-epaper-3.7.htm)
 * [Free Time Zone Database & API](https://www.timezonedb.com/)
+
+---
+** This Text was generated with https://translate.google.com **
